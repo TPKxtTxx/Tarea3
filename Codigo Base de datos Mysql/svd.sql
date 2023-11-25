@@ -105,7 +105,6 @@ INSERT INTO `articulo` (`idarticulo`, `idcategoria`, `codigo`, `nombre`, `precio
 (39, 10, 'AU3006', 'Chevrolet Silverado 1500', 2350000.00, 4, 'Camioneta pickup versátil y resistente.', b'1'),
 (40, 11, 'MU4001', 'Silla de comedor', 49.99, 20, 'Silla ergonómica para comedor', b'1'),
 (41, 11, 'MU4002', 'Mesa de centro', 69.50, 15, 'Mesa de centro moderna con espacio de almacenamiento', b'1'),
-(42, 11, 'MU4003', 'Sofá seccional', 349.99, 10, 'Sofá amplio y cómodo para la sala de estar', b'1');
 
 -- --------------------------------------------------------
 

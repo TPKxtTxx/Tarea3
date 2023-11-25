@@ -1,0 +1,157 @@
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VInicioSec.resources
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VRegistro.resources
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VGeneral.resources
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\Aracelis\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VInicioSec.resources
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VRegistro.resources
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VGeneral.resources
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySql.Data.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySqlConnector.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySql.Data.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySqlConnector.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe.config
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CopyComplete
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.PerfilUs.resources
+C:\Users\Admin\source\repos\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.ComfirmaCompra.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe.config
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.ComfirmaCompra.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.PerfilUs.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VInicioSec.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VRegistro.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VGeneral.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySqlConnector.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySqlConnector.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CopyComplete
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.PerfilAdmin.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.EdArticulos.resources
+C:\Users\Admin\Desktop\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.EdUsuarios.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe.config
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.exe
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\Sistema de Ventas.pdb
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\BouncyCastle.Crypto.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Hash.xxHash.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySql.Data.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySqlConnector.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Buffers.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.IO.Pipelines.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Memory.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Numerics.Vectors.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\BouncyCastle.Crypto.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.pdb
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\Google.Protobuf.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\K4os.Hash.xxHash.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySql.Data.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\MySqlConnector.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Buffers.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.IO.Pipelines.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Memory.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Numerics.Vectors.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.AssemblyReference.cache
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.SuggestedBindingRedirects.cache
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe.config
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.ComfirmaCompra.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.EdArticulos.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.EdUsuarios.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.PerfilAdmin.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.PerfilUs.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VInicioSec.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VRegistro.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.VGeneral.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.GenerateResource.cache
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CoreCompileInputs.cache
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.csproj.CopyComplete
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.exe
+E:\todo2\Sistema de Ventas\Sistema de Ventas\obj\Debug\Sistema de Ventas.pdb
